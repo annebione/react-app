@@ -20,7 +20,7 @@ import {
 import SectionHeading from '../../components/pure/SectionHeading'
 import Button from '../../components/pure/Button'
 import MainSection from '../../components/pure/MainSection'
-import TextInput from '../../components/stateful/TextInput'
+import TextInput from '../../components/pure/TextInput'
 
 class Scheduling extends React.Component {
 
